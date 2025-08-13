@@ -117,6 +117,7 @@ export const Banner = () => {
           </a>
         </div>
       </div>
+      <p>shafeek</p>
 
       <div className="d-flex" id="ban1">
         <div className="d-flex">
